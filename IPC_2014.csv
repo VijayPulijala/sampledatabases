@@ -1,0 +1,89 @@
+Crime Head,2014
+1 - Murder (Section 302 IPC),33981
+2 - Attempt to commit Murder (Section 307 IPC),41791
+3 - Culpable Homicide not amounting to Murder (Section 304 IPC),3332
+4 - Attempt to commit Culpable Homicide (Section 308 IPC),4358
+5 - Rape (Section 376 IPC),36735
+5.1 - Custodial Rape,198
+5.1.1 - Gang Rape,7
+5.1.2 - Other Rape,191
+5.2 - Rape other than Custodial,36537
+5.2.1 - Gang Rape,2346
+5.2.2 - Other Rape,34191
+6 - Attempt to commit Rape (Section 376/511 IPC),4234
+"7 - Kidnapping & Abduction_Total (Section 3,364,364A, 366-369 IPC)",77237
+7.1 - Kidnapping & Abduction (Section 363 IPC),25013
+7.2 - Kidnaping & Abduction in order to Murder (Section 364 IPC),1512
+7.3 - Kidnapping for Ransom (Section 364A IPC),676
+7.4 - Kidnapping & Abduction of Women to compel her for marriage (Section 366 IPC),30874
+7.5 - Other Kidnapping,19162
+"8 - Dacoity (Section 395,396-398 IPC)",4395
+8.1 - Dacoity with Murder (Section 396 IPC),82
+8.2 - Other Dacoity,4313
+9 - Making Preparation and Assembly for committing Dacoity (Section 399 & 402 IPC),2834
+"10 - Robbery (Section 392 to 394, 397 and 398 IPC)",38071
+11 - Criminal Trespass/Burglary_Total (Section 453 to 460 IPC),114646
+"11.1 - Criminal Trespass/Burglary (Section 455, 457 & 458 IPC)",84645
+"11.2 - House Trespass & House Breaking (Section 453,454,456,459 & 460 IPC)",30001
+12 - Theft (Section 379 to 382 IPC),440915
+12.1 - Auto Theft,185626
+12.2 - Other Thefts,255289
+"13 - Unlawful Assembly (Section 143,144 & 145)",9870
+"14 - Riots (Section 147, 148, 149, 150 & 151 IPC)",66042
+14.1 - Communal,1227
+14.2 - Industrial,170
+14.3 - Political,1853
+14.4 - Caste Conflict,1512
+14.4.1 - SC/STs Vs. Non-SCs/STs,355
+14.4.2 - Other Caste Riots,1157
+14.5 - Agrarian,628
+14.6 - Students,261
+14.7 - Sectarian,31
+14.8 - Other Riots,60360
+15 - Criminal Breach of Trust (Section 406 to 409 IPC),19982
+16 - Cheating (Section 420 IPC),109354
+"17 - Forgery (Section 465, 468 & 471 IPC)",11245
+"18 - Counterfeiting (Section 231-235,237-240, 242-243, 255 and 489-A to 489-E IPC)",1979
+"18.1 - Offences related to Counterfeit Coin (Section 231-235,237, 238-240 & 242-243 IPC)",310
+18.2 - Counterfeiting Government Stamp (Section 255 IPC),2
+18.3 - Counterfeit currency & Bank notes (Section 489-A to 489-E IPC),1667
+18.3.1 - Counterfeiting currency notes or Bank notes (Section 489A IPC),707
+18.3.2 - Using forged or counterfeit currency/Bank notes (Section 489B IPC),686
+18.3.3 - Possession of forged or counterfeiting currency / Bank notes (Section 489C IPC),230
+18.3.4 - Make/Possess materials for forging or counterfeiting currency/Bank notes (Section 489D IPC),18
+18.3.5 - Make/Use documents resembling currency notes/Bank notes (Section 489 E IPC),26
+19 - Arson (Section 435-436 & 438 IPC),9289
+"20 - Grievous Hurt (Section 325,326,326A & 326 B IPC)",105201
+20.1 - Grievous Hurt (Section 325 & 326 IPC),104946
+20.2 - Acid attack (Section 326A IPC),203
+20.3 - Attempt to Acid Attack (Section 326B IPC),52
+21 - Dowry Deaths (Section 304-B IPC),8455
+22 - Assault on women with intent to outrage her Modesty (Section 354 IPC),82235
+22.1 - Sexual Harassment (Section 354A IPC),21938
+22.2 - Assault on women with intent to Disrobe (Section 354B IPC),6412
+22.3 - Voyeurism (Section 354C IPC),674
+22.4 - Stalking (Section 354D IPC),4699
+22.5 - Others,48512
+23 - Insult to the Modesty of Women (Section 509 IPC),9735
+23.1 - At Office premises,57
+23.2 - Places related to work other than Office,469
+23.3 - In Public Transport system,121
+23.4 - in Other Places,9088
+24 - Cruelty by Husband or his Relatives (Section 498-A IPC),122877
+25 - Importation of Girls from Foreign Country (Section 366-B IPC),13
+26 - Causing Death by Negligence (Section 304-A IPC),128771
+26.1 - Deaths due to negligent driving/act,122334
+26.2 - Deaths due to Other Causes,6437
+"27 - Offences against State (Section 121, 121A, 122, 123, 124-A IPC)",176
+27.1 - Sedition (Section 124A IPC),47
+27.2 - Other offences against State,129
+28 - Offences promoting enmity between different groups (Section 153A & 153B IPC),336
+28.1 - Promoting enmity on ground of religion race and place of Birth (Section 153A IPC),323
+28.2 - Imputation & assertions prejudicial to national integration (Section 153B IPC),13
+29 - Extortion (Section 384 - 389 IPC),8192
+30 - Disclosure of Identity of Victims (Section 228 A IPC),4
+31 - Incidence of Rash Driving (Section 279 IPC Read with 337 & 338),409899
+32 - Human Trafficking (Section 370 & 370A IPC),720
+33 - Unnatural Offences U/s 377 IPC,1148
+34 - Other IPC crimes,943511
+35 - Total Cognizable IPC crimes,2851563
